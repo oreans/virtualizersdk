@@ -3,9 +3,9 @@
 // Description: Go macros definitions
 //
 // Author/s: Oreans Technologies 
-// (c) 2014 Oreans Technologies
+// (c) 2021 Oreans Technologies
 //
-// --- File generated automatically from Oreans VM Generator (19/8/2014) ---
+// --- File generated automatically from Oreans VM Generator (14/5/2021) ---
 // ******************************************************************************
 
 package virtualizersdk;
@@ -43,17 +43,23 @@ const SHARK_RED_END                                  = "CustomVM00000120_End";
 const SHARK_BLACK_START                              = "CustomVM00000122_Start";
 const SHARK_BLACK_END                                = "CustomVM00000122_End";
 const DOLPHIN_WHITE_START                            = "CustomVM00000134_Start";
-const DOLPHIN_WHITE_END 	                     = "CustomVM00000134_End";
-const DOLPHIN_RED_START 	                     = "CustomVM00000136_Start";
-const DOLPHIN_RED_END 		                     = "CustomVM00000136_End";
-const DOLPHIN_BLACK_START 	                     = "CustomVM00000138_Start";
-const DOLPHIN_BLACK_END 	                     = "CustomVM00000138_End";
-const EAGLE_WHITE_START 	                     = "CustomVM00000146_Start";
-const EAGLE_WHITE_END 		                     = "CustomVM00000146_End";
-const EAGLE_RED_START 		                     = "CustomVM00000148_Start";
-const EAGLE_RED_END 		                     = "CustomVM00000148_End";
-const EAGLE_BLACK_START 	                     = "CustomVM00000150_Start";
-const EAGLE_BLACK_END 		                     = "CustomVM00000150_End";
+const DOLPHIN_WHITE_END                              = "CustomVM00000134_End";
+const DOLPHIN_RED_START                              = "CustomVM00000136_Start";
+const DOLPHIN_RED_END                                = "CustomVM00000136_End";
+const DOLPHIN_BLACK_START                            = "CustomVM00000138_Start";
+const DOLPHIN_BLACK_END                              = "CustomVM00000138_End";
+const EAGLE_WHITE_START                              = "CustomVM00000146_Start";
+const EAGLE_WHITE_END                                = "CustomVM00000146_End";
+const EAGLE_RED_START                                = "CustomVM00000148_Start";
+const EAGLE_RED_END                                  = "CustomVM00000148_End";
+const EAGLE_BLACK_START                              = "CustomVM00000150_Start";
+const EAGLE_BLACK_END                                = "CustomVM00000150_End";
+const LION_WHITE_START                               = "CustomVM00000160_Start";
+const LION_WHITE_END                                 = "CustomVM00000160_End";
+const LION_RED_START                                 = "CustomVM00000162_Start";
+const LION_RED_END                                   = "CustomVM00000162_End";
+const LION_BLACK_START                               = "CustomVM00000164_Start";
+const LION_BLACK_END                                 = "CustomVM00000164_End";
 const MUTATE_ONLY_START                              = "Mutate_Start";
 const MUTATE_ONLY_END                                = "Mutate_End";
 
