@@ -84,14 +84,8 @@ const (
 //                                 Bridge Function definition
 // ******************************************************************************
 
-func Macro(str string) int {
+func Macro(str string) {
 	if str == "Hi Bridge" {
-		for i := 0; i < 5; i++ {
-			fmt.Printf("text", str[i])
-		}
-		for i := 0; i < 5; i++ {
-			fmt.Printf("text1", str[i+1])
-		}
+		fmt.Printf("text")
 	}
-	return int(str[0])
 }
