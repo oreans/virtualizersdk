@@ -3,9 +3,9 @@
 // Description: Go macros definitions
 //
 // Author/s: Oreans Technologies 
-// (c) 2021 Oreans Technologies
+// (c) 2024 Oreans Technologies
 //
-// --- File generated automatically from Oreans VM Generator (14/5/2021) ---
+// --- File generated automatically from Oreans VM Generator (21/7/2024) ---
 // ******************************************************************************
 
 package virtualizersdk;
@@ -60,9 +60,27 @@ const LION_RED_START                                 = "CustomVM00000162_Start";
 const LION_RED_END                                   = "CustomVM00000162_End";
 const LION_BLACK_START                               = "CustomVM00000164_Start";
 const LION_BLACK_END                                 = "CustomVM00000164_End";
+const COBRA_WHITE_START                              = "CustomVM00000166_Start";
+const COBRA_WHITE_END                                = "CustomVM00000166_End";
+const COBRA_RED_START                                = "CustomVM00000168_Start";
+const COBRA_RED_END                                  = "CustomVM00000168_End";
+const COBRA_BLACK_START                              = "CustomVM00000170_Start";
+const COBRA_BLACK_END                                = "CustomVM00000170_End";
+const WOLF_WHITE_START                               = "CustomVM00000172_Start";
+const WOLF_WHITE_END                                 = "CustomVM00000172_End";
+const WOLF_RED_START                                 = "CustomVM00000174_Start";
+const WOLF_RED_END                                   = "CustomVM00000174_End";
+const WOLF_BLACK_START                               = "CustomVM00000176_Start";
+const WOLF_BLACK_END                                 = "CustomVM00000176_End";
 const MUTATE_ONLY_START                              = "Mutate_Start";
 const MUTATE_ONLY_END                                = "Mutate_End";
-
+const FALCON_TINY_START                              = "CustomVM00000217_Start";
+const FALCON_TINY_END                                = "CustomVM00000217_End";
+const FALCON_TINY_START                              = "CustomVM00000217_Start";
+const STR_ENCRYPT_START                              = "VirtualizerStrEncryptStart";
+const STR_ENCRYPT_END                                = "VirtualizerStrEncryptEnd";
+const STR_ENCRYPTW_START                             = "VirtualizerStrEncryptWStart";
+const STR_ENCRYPTW_ENDT                              = "VirtualizerStrEncryptWEnd";
 
 // ******************************************************************************
 //                                 Bridge Function definition
